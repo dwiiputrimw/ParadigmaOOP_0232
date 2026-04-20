@@ -12,4 +12,4 @@ public :
         cout << "Nama : " << nama << endl;
         cout << "Nilai : " << nilai << endl;
     }
-}; //batas class
+}; 
