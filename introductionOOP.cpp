@@ -22,4 +22,6 @@ int main (){
 
     mhs.printData();
 
+    return 0;
+
 }
